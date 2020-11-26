@@ -3,10 +3,10 @@ import os
 import numpy as np
 import sys
 
-current_dir = "./data/artifacts/images"
+current_dir = "./data/model-trains/images"
 split_pct = 10;
-file_train = open("data/artifacts/train.txt", "w")  
-file_val = open("data/artifacts/val.txt", "w")  
+file_train = open("data/model-trains/train.txt", "w")  
+file_val = open("data/model-trains/val.txt", "w")  
 counter = 1  
 index_test = round(100 / split_pct)  
 for pathAndFilename in glob.iglob(os.path.join(current_dir, "*.jpg")):  
