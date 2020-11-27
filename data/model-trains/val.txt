@@ -1,5 +1,5 @@
-./data/model-trains/images/2020-08-23 (19).jpg
-./data/model-trains/images/2020-08-23 (29).jpg
-./data/model-trains/images/2020-08-23 (39).jpg
-./data/model-trains/images/2020-08-23 (51).jpg
-./data/model-trains/images/2020-08-23 (7).jpg
+./images/2020-08-23 (19).jpg
+./images/2020-08-23 (29).jpg
+./images/2020-08-23 (39).jpg
+./images/2020-08-23 (51).jpg
+./images/2020-08-23 (7).jpg
