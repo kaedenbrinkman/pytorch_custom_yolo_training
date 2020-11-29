@@ -1,7 +1,7 @@
 yolo_model:
 
   config_file:
-    name: yolov3.cfg
+    name: yolov3-3.cfg
   weight_file:
     name: yolov3.weights
   threshold:
@@ -12,3 +12,7 @@ yolo_model:
       - locomotive
       - passenger
       - tanker
+      - hammer
+      - plyers
+      - cat
+      - screwdriver

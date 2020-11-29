@@ -1,7 +1,7 @@
 # train and val datasets (image directory or *.txt file with image paths)
-train: /content/pytorch_custom_yolo_training-4/data/model-trains/train.txt
-val: /content/pytorch_custom_yolo_training-4/data/model-trains/val.txt
-test: /content/pytorch_custom_yolo_training-4/data/model-trains/test.txt
+train: /content/pytorch_custom_yolo_training-5/data/model-trains/train.txt
+val: /content/pytorch_custom_yolo_training-5/data/model-trains/val.txt
+test: /content/pytorch_custom_yolo_training-5/data/model-trains/test.txt
 
 # number of classes
 nc: 1
