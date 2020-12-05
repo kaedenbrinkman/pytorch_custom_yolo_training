@@ -2,6 +2,3 @@ train
 locomotive
 passenger
 tanker
-hammer
-plyers
-cat

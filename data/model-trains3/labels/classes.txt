@@ -4,5 +4,4 @@ passenger
 tanker
 hammer
 plyers
-cat
 screwdriver
